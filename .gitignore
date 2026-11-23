@@ -1,0 +1,6 @@
+node_modules/
+signal-bin/
+signal-data/
+tmp/
+.env
+*.log
